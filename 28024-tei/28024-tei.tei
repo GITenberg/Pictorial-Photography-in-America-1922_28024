@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Pictorial Photography in America 1922</title>
+ <author>Pictorial Photographers of America</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2009-02-08">February 8, 2009</date>
+ <idno type="etext-no">28024</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>Pictorial Photography in America 1922</title>
+  <author>Pictorial Photographers of America</author>
+  <imprint>
+   <pubPlace>New York</pubPlace>
+   <publisher>Pictorial Photographers of America</publisher>
+   <date>1922</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="en"></language>
+  <language id="la"></language>
+ </langUsage>
+<textClass>
+  <classCode scheme="lc">PR</classCode>
+<keywords>
+<list>
+<item>Photography, Artistic</item>
+</list>
+</keywords>
+</textClass>
+ 
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2009-02-08">February 8, 2009</date>
+  <respStmt>
+  <name>Martin Schub<lb /></name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    figure           { text-align: center; page-float: 'p' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w80             { }
+    .w70             { }
+    .w50             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w80             { width: 80% }
+      .w70             { width: 70% }
+      .w50             { width: 50% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text lang="en">
+
+<front>
+
+<div>
+<divGen type="pgheader" />
+</div>
+<div>
+  <divGen type="encodingDesc" />
+</div>
+
+
+<titlePage rend="page-break-before: right">
+ <docTitle><titlePart type="main" rend="font-size: x-large">Pictorial Photography in America 1922</titlePart><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb /><lb />
+</docTitle>
+ <byline><docAuthor>Pictorial Photographers of America</docAuthor><lb /><lb /></byline>
+
+<docImprint>New York<lb />
+<lb /></docImprint>
+<docDate>1922</docDate>
+</titlePage>
+
+<div rend="page-break-before: right">
+<lg>
+<l><emph>Committee of Selection</emph></l>
+<l><hi rend="font-variant: small-caps">Dr. A. D. Chaffee</hi></l>
+<l><hi rend="font-variant: small-caps">John Paul Edwards</hi></l>
+<l><hi rend="font-variant: small-caps">G. W. Harting</hi></l>
+<l><hi rend="font-variant: small-caps">Dr. Arnold Genthe</hi></l>
+<l><hi rend="font-variant: small-caps">Gertrude Kasebier</hi></l>
+<l><hi rend="font-variant: small-caps">O.C. Reiter</hi></l>
+</lg>
+<lg>
+<l><emph>Advisory Committe from American Institute of Graphic Arts</emph></l>
+<l><hi rend="font-variant: small-caps">Ray Greenleaf</hi></l>
+<l><hi rend="font-variant: small-caps">Harry A. Groesbeck, Jr.</hi></l>
+<l><hi rend="font-variant: small-caps">William Edwin Rudge</hi></l>
+</lg>
+<lg>
+<l><emph>Publication Committee</emph></l>
+<l><hi rend="font-variant: small-caps">Guy Gaylor Clark</hi></l>
+<l><hi rend="font-variant: small-caps">G. W. Harting</hi></l>
+<l><hi rend="font-variant: small-caps">Dr. Theron W. Kilmer</hi></l>
+<l><hi rend="font-variant: small-caps">Joseph R. Mason</hi></l>
+<l><hi rend="font-variant: small-caps">Henry Hoyt Moore</hi></l>
+<l><hi rend="font-variant: small-caps">Cornelia White</hi></l>
+<l><hi rend="font-variant: small-caps">Mildred Ruth Wilson</hi></l>
+<l><hi rend="font-variant: small-caps">Jerry D. Drew, </hi><emph>Chairman</emph></l>
+</lg>
+</div>
+
+<div rend="page-break-before: right">
+<head>Illustrations</head>
+<divGen type="fig" />
+</div>
+
+<div rend="page-break-before: right">
+<index index="pdf" />
+<head>Contents</head>
+<divGen type="toc" />
+</div>
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<pb n="7" />
+<head>SINCERITY</head>
+<p>
+Art that endures is sincere.  It is universal in its appeal though it  may have been produced in a remote corner of the world by one who was  unacquainted with the work of artists.
+</p>
+<p>
+I remember going with a friend into a picture gallery in Chicago, where an  artist&mdash;I think his name was Bradford&mdash;was showing some sketches he had  brought back from the arctic regions.  <q>How true these are</q> I exclaimed.  <q>How  do you know?</q> said my companion, <q>you have never been to the North Pole.</q>  <q>That is not necessary</q> I rejoined. <q>These studies have the truth written in  every inch of them.</q>  The work proclaimed the sincerity of its maker.
+</p>
+<p>
+He who reverently observes life and wrests from its verities those elements  which are in tune with his <q>ego</q>&mdash;transposes these into some concrete form  without the damning desire for self aggrandizement, pretense, or mere seeking  for originality&mdash;is building on good foundations.  It is from an over-weening desire for originality that most of the affectations of so called <q>Modern Art</q> proceed.
+</p>
+<p>
+Natural individuality&mdash;the sincere personal vision of the artist&mdash;is an  inherited asset.  His work is the acquiring of a technique, the constant  patient practice and experiment in his particular craft.  This unending  exercise gives the artist power to state his message clearly&mdash;in the simplest way.
+</p>
+<p>
+The graphic artist is concerned with <q><emph>pictorial</emph></q> ideas.  These are necessarily limited; they must be ideas possible of expression by light and shade, by line, by form, by color.  The artist's vision includes his point of view.  He receives an impression and simultaneously determines how he will express it.  He has, as it were, analyzed his subject and decided at once on the form of its presentation&mdash;in the clay, on the canvas, in the drawing or photograph.
+</p>
+<p>
+Given the most favorable mechanical contrivances which science places today at the disposal of the painter or photographer, the latter may proceed in his work under the same maxims, the same theories, that guide the painter.  His design may be as interesting, his key as aptly chosen, his black and white (values) as colorful, his composition in the space as distinguished.
+</p>
+<p>
+<pb n="8" />
+If over and above his technical skill the photographer starts with a <q>vital idea,</q> he may like the painter convey with his photograph <q><emph>the moving thrill</emph></q> which is the final test of any work of art.
+</p>
+<p>
+Then perchance, working patiently along the lines here barely indicated, the artist may one day unconsciously achieve that coveted note of true originality which marks a forward step to be hailed and recorded in the great tradition.
+</p>
+<closer>
+<signed>
+Albert Sterner
+</signed>
+</closer>
+</div>
+
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<pb n="9" />
+<head>THE YEAR'S PROGRESS</head>
+<byline>
+<emph>By </emph><hi rend="font-variant: small-caps">Henry Hoyt Moore</hi></byline>
+<p>
+We cannot claim for our art any outstanding phenomenon like the interest in the radio that has swept the country this year, or any remarkable development in the science of photography like the invention a few years ago of the Lumi&egrave;re plate.  The day may come when our exhibitions will show masses of color on their walls which will make the water-colorists and the miniaturists green with envy, but that day is not yet.  And I for one would be sorry to see it come.  There is to me a charm about good monotone photography that is all its own and that puts it on a plane with etching, engraving, lithography, and other monotone processes.  Of course some artists, strictly so called, object to regarding photography as anything but a mechanical process, but the number of those who would make art a close corporation is happily diminishing.
+</p>
+<p>
+In fact, the recognition that photography is receiving from accredited representatives of the fine arts makes its position no longer a doubtful one.  Any of the arts may be used for commercial purposes, but that fact does not take away from them their rightful place when they are used by competent hands for aesthetic purposes.  The increasing number of museums that are opening their exhibition halls to good photography is an evidence that is obvious to all observers.  Caustic critics like Joseph Pennell may decry photography, but many able artists and critics, attending exhibitions of photography that are being held in many of our centers of art, are having their eyes opened to the beauty of lens work in the hands of men and women who use the camera with feeling and insight.  Then, too, we must not forget the fact that some well-known artists, beginning with D. O. Hill and continuing with Mrs. Kasebier, Frank Eugene, Steichen, and others, have found in the practice of photography a more lasting fame than in any other line of their effort.
+</p>
+<p>
+Among notable exhibitions of the past year several should be mentioned. Of course there are what might be called the historic exhibitions that have won an established place, like the London Salon, the Royal Photographic Exhibition, the Pittsburgh Salon, the Los Angeles Salon, the Portland Exhibition, and others.
+<pb n="10" />
+More recently established exhibitions that are to be noted are those of the San Francisco Pictorialists, the Oakland Salon, the Canadian National at Toronto, the Buffalo Salon, and that of the Pictorial Photographers of America at the opening of the Art Center in New York City.  At many of these exhibitions pictures from the same exhibitors were hung, and as the judges at practically all of them were different men (and women), including professional artists, it is evident that there was a consensus among the competent critics that these exhibitors at least are doing worthy work.  But in that fact there is no cause for discouragement to the novice, for new names are to be found in the catalogues of all the exhibitions, and there is no league to keep out any individual's pictures anywhere.  That is one of the triumphs of our art&mdash;that, while judges may sometimes err and exclude a good picture or select a poor one, there is a general open-mindedness in recognizing merit wherever it exists.  A well-known worker is pretty sure to have his photographs declined by the judges in most of the photographic exhibitions if he falls below his standard, and, on the other hand, a gifted beginner will quickly get a place in the seats of the mighty if he can produce the photographs that entitle him to distinction.
+</p>
+<p>
+Some notable one-man exhibitions have been held since our last Annual was published.  Among them should be mentioned those of the veterans Alfred Stieglitz and Rudolph Eickemeyer in the Anderson Galleries in New York&mdash;and it is a significant testimony to the lure of our art that these masters of it have <q>come back</q>; those of Dr. H. B. Goodwin, of Stockholm, at the Brown-Robertson Gallery, and E. O. Hoppe, of England, at Wanamaker's, in New York; that of Clarence H. White, of New York, at the Art Center; the joint exhibition of prints of W. E. Macnaughtan and William A. Alcock, of Brooklyn, at the New York Camera Club, and of F. J. Mortimer and Alexander Keighley of England at the same place; and by Mrs. Antoinette B. Hervey, Miss Sophie Lauffer, Nicholas Muray, and F. O. Libby, with numerous others, that show the popularity of this method of placing good work before the public.  Such exhibitions should be encouraged, for not only do they stimulate the exhibitor to show worthy work, but they are in the nature of spurs to the activity of every serious worker who has the privilege of seeing them.
+</p>
+<p>
+As to processes that are in favor, the bromoil and the bromoil transfer still continue to attract a host of workers.  European workers seem still to have access to better and cheaper materials for this work than we in America, as is evidenced by the number and quality of the prints that are produced in the Scandinavian countries and in Germany, where bromoil work has even acquired a commercial status among professional photographers.
+</p>
+<pb n="11" />
+<p>
+The question is sometimes raised whether the general public who attend photographic exhibitions are interested in processes as such.  I think the question must be answered in the negative.  It is the general effect that interests the outsider, and he cares not whether the print is a gum, a bromoil, a bromide, a platinum, or a palladiotype.  We must beware lest we get enamored of a process rather than the result.  I say this with no disrespect to the bromoilists, many of whom are gifted workers and endowed with art feeling.  But we must remember that we are working to popularize photography as an art as well as to demonstrate our own artistic feeling and technical skill, and we ought not to lay too great stress on a difficult branch of our work, to the discouragement of those who would seek to share the delights of a beautiful recreation.  The problem must be left to each individual.  The beauty of a bromoil print, for instance, is supreme to its devotee: is its superiority to other processes worth the time and the toil necessary to make it, which might be devoted to the study of composition, of a wider range of subject, or to the mastery of simpler processes?  Picture construction and print quality are after all the main things in photography, not the medium we use.
+</p>
+<p>
+There is no royal road to distinction in photography, but each year sees some helps devised for the earnest worker, whether amateur or professional.  For the amateur there is now an increasing variety of cameras and photographic material.  New cameras are coming from abroad, among them a small French moving-picture machine, the <q>Sept,</q> which can be carried in the hand and with which, it is claimed, good <q>stills</q> may be taken as well as good regulation movie pictures.  An auto-focus enlarger, at a comparatively small price, has also been put on the market for amateur use; and with the increasing use of small cameras and the adoption of simpler methods this may prove a boon to those who wish to make bromide enlargements more easily than they could by the older methods.  It is to be regretted that platinum paper is not being manufactured in America for photographic purposes, for the quality of a choice platinum print is still regarded by many as unsurpassed, and many workers wish to see platinum resume its old place among the photographer's resources.  Many <q>spotlight</q> machines and artificial illuminating devices have been put on the market, and with these the photographer will be equipped to play on his sitters the <q>light that never was on sea or land,</q> if he so desires.  But the ingenious photographer who is quick to seize good lighting effects will not need the aid of artificial lighting, anymore than did the early master of photography, D. O. Hill, whose simple effects reached almost the finality of lens art.
+</p>
+<p>
+Just here I might add a word as to the increasing coalescence of the amateur and the professional photographer in America.  Strictly speaking, an amateur may 
+<pb n="12" />
+be said to be one who gets no return in money for his work, while the professional's work is mainly financial in its object.  The amateur photographer, however, finds his expenses heavy and the temptation strong to sell his pictures; while in America the professional photographer is frequently so much in love with the pictorial possibilities of his work that he loses sight of the financial end of it.
+</p>
+<p>
+For the worker to get the real enthusiasm and benefit from photography, the
+thing now necessary to mark a distinct note of progress, or to make an outstanding year, is to have a great international exhibition, similar to the one held in Buffalo in 1910.  This, I am glad to say, is already planned for next year, to be held in New York City, which, although the great center of activity, has never had an exhibition of this kind.
+</p>
+</div>
+
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>ON IDEAS</head>
+<pb n="13" />
+<byline>
+<emph>By </emph><hi rend="font-variant: small-caps">Heyworth Campbell</hi>
+</byline>
+<p>
+Thackeray resigned the editorship of a British periodical only because he could not endure the ordeal of rejecting the thousands of submitted manuscripts.  This is a distressing phase of an Art Director's duties and to my mind his most sacred obligation.  No matter how hardened by experience, a conscientious editor cannot fail to suffer for and with the unhappy authors and artists whose work goes back with the proverbial pink rejection slip.  Why are drawings and photographs rejected?  What is wrong with the great mass of rejected material?  My observation is that they suffer more from a lack of clear thinking and careful execution than from a paucity of ideas.
+</p>
+<p>
+The weird conceptions and grotesque ideas in back of most of the unsolicited material submitted would make one easily believe that the artists are inmates, or perfectly qualified to be inmates of asylums.  I am seldom inclined or required to urge an artist to seek originality of idea.  My constant plea, and what to my mind is a prerequisite, is an optimistic point of view, a sound, intelligent thought rendered with, may I say, reverence.
+</p>
+<p>
+Struggling young artists are constantly advised to cultivate their imagination.  What is imagination?  Arthur Brisbane defined this in the most compact, tangible statement: <q>Imagination is nothing more than the power to see and realize what others fail to see and realize.</q>  The illusive idea that we are searching for is nothing hidden or mystic but right before our very eyes.  We have only to <q>see and realize.</q>
+</p>
+<p>
+It is conceded, I am sure, that the idea is the prime requisite of a political cartoon.  A prominent cartoonist was once asked where he got his ideas.  In reply he asked <q>what ideas?</q>  Men of ideas have brains that function exactly as those of other normal well-ordered citizens.  They are not gifted by strange kinks in their brain cells.  When the prominent cartoonist is contemplating the banal act of shaving or putting in a new furnace, his thoughts are no more or less exalted or lofty than when creating a cartoon idea intended to sway public opinion.  Strange, isn't it, that considering the thousands of earnest thinking
+<pb n="14" />
+diligent-working young students, that there are so few artists whose work reflects real genius?  Strange that the standard of the Graphic Arts is as discouragingly low as it is considering this army of talent.  But even more strange that this contradiction to the law of averages is also applicable to the field of sports&mdash;to a field so practical, tangible and therefore measurable.  Every healthy-minded youngster born, has two early ambitions: one to be a great baseball player, another to become President.  And yet the scouts and managers for the Big Leagues have difficulty in discovering talent above the average.
+</p>
+<p>
+In the field of Pictorial Photography, the average is exceedingly high.  This volume is a demonstration.  To be sure, if one seeks, one can quickly discover atrocities in the galleries and on the printed page; but my conviction is that the progress from the purely aesthetic standpoint has kept pace with the mechanical and scientific strides made in Photography.
+</p>
+<p>
+Quotations are generally sneered at, but they make excellent conclusions.  Some one once said: <q>All one's life is music if one touched the notes rightly and in tune.</q>  A very happy thought and true.  But finding the right note is infinitely more difficult than the striking in tune.  Ideas, to be sure, you must seek.  But orderly thought, patience and fine craftsmanship in carrying out your idea frequently count for more than the originality or brilliance of the idea itself.  Owing to the restlessness of the world situation&mdash;wars and rumors of wars, strikes and overtendency towards jazz and slang&mdash;there is already, especially in the work of youngsters, too evident an urge to be different; different merely for the sake of being different.
+</p>
+<p>
+A thought possibly worthy of the deliberation of every artist is that Distinction is a result, never the object, of a great mind.
+</p>
+</div>
+
+</front>
+
+<body>
+<p>
+</p>
+<pb n="16" />
+<figure url="images/panel.jpg" rend="w90">
+<index index="fig" />
+<head>A DECORATIVE PANEL<lb /><emph>By </emph><hi rend="font-variant: small- caps">Thos. O. Sheckell, </hi><emph>Salt Lake City, Utah</emph></head>
+<figDesc>A DECORATIVE PANEL, By Thos. O. Sheckell, Salt Lake City,  Utah</figDesc>
+</figure>
+
+
+<pb n="17" />
+<figure url="images/studio.jpg" rend="w90">
+<index index="fig" />
+<head>IN A DANCER'S STUDIO<lb /><emph>By </emph><hi rend="font-variant: small -caps">Wayne Albee, </hi><emph>Seattle, Washington</emph></head>
+<figDesc>IN A DANCER'S STUDIO, By Wayne Albee, Seattle, Washington</figDesc>
+</figure>
+
+
+<pb n="18" />
+<figure url="images/housboat.jpg" rend="w90">
+<index index="fig" />
+<head>HOUSE-BOATS<lb /><emph>By </emph><hi rend="font-variant: small- caps">Ernest M. Pratt, </hi><emph>Los Angeles, Calif.</emph></head>
+<figDesc>HOUSE-BOATS, By Ernest M. Pratt, Los Angeles, Calif.</figDesc>
+</figure>
+
+
+<pb n="19" />
+<figure url="images/comein.jpg" rend="w90">
+<index index="fig" />
+<head>MAY I COME IN?<lb /><emph>By </emph><hi rend="font-variant: small- caps">Robert R. McGeorge, </hi><emph>Buffalo, N. Y.</emph></head>
+<figDesc>MAY I COME IN?, By Robert R. McGeorge, Buffalo, N. Y.</figDesc>
+</figure>
+
+
+<pb n="20" />
+<figure url="images/distsail.jpg" rend="w90">
+<index index="fig" />
+<head>THE DISTANT SAIL<lb /><emph>By </emph><hi rend="font-variant: small- caps">William Gordon Shields, </hi><emph>New York City</emph></head>
+<figDesc>THE DISTANT SAIL, By William Gordon Shields, New York City</figDesc>
+</figure>
+
+
+<pb n="21" />
+<figure url="images/gateway.jpg" rend="w80">
+<index index="fig" />
+<head>GATEWAY, DINAN<lb /><emph>By </emph><hi rend="font-variant: small- caps">Dr. Chas. H. Jaeger, </hi><emph>New York City</emph></head>
+<figDesc>GATEWAY, DINAN, By Dr. Chas. H. Jaeger, New York City</figDesc>
+</figure>
+
+
+<pb n="22" />
+<figure url="images/silhouet.jpg" rend="w90">
+<index index="fig" />
+<head>SILHOUETTES&mdash;EGYPT<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Julia Marshall, </hi><emph>Duluth, Minn.</emph></head>
+<figDesc>SILHOUETTES&mdash;EGYPT, By Julia Marshall, Duluth, Minn.</figDesc>
+</figure>
+
+
+<pb n="23" />
+<figure url="images/everett.jpg" rend="w90">
+<index index="fig" />
+<head>MOUNT EVERETT<lb /><emph>By </emph><hi rend="font-variant: small- caps">Robert B. Montgomery, </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>MOUNT EVERETT, By Robert B. Montgomery, Brooklyn, N. Y.</figDesc>
+</figure>
+
+
+<pb n="24" />
+<figure url="images/backfenc.jpg" rend="w90">
+<index index="fig" />
+<head>THE BACK FENCE<lb /><emph>By </emph><hi rend="font-variant: small- caps">C. R. Herzler, </hi><emph>New York City</emph></head>
+<figDesc>THE BACK FENCE, By C. R. Herzler, New York City</figDesc>
+</figure>
+
+
+<pb n="25" />
+<figure url="images/metagama.jpg" rend="w90">
+<index index="fig" />
+<head>ON DECK OF THE METAGAMA<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Johan Hagemeyer, </hi><emph>San Francisco, Calif.</emph></head>
+<figDesc>ON DECK OF THE METAGAMA, By Johan Hagemeyer, San Francisco,  Calif.</figDesc>
+</figure>
+
+
+<pb n="26" />
+<figure url="images/tidewate.jpg" rend="w90">
+<index index="fig" />
+<head>TIDEWATER<lb /><emph>By </emph><hi rend="font-variant: small- caps">Amelia H. McLean, </hi><emph>Bronxville, N. Y.</emph></head>
+<figDesc>TIDEWATER, By Amelia H. McLean, Bronxville, N. Y.</figDesc>
+</figure>
+
+
+<pb n="27" />
+<figure url="images/vendors.jpg" rend="w90">
+<index index="fig" />
+<head>STREET VENDORS&mdash;ROME, ITALY<lb /><emph>By </emph><hi rend="font- variant: small-caps">H. A. Latimer, </hi><emph>Boston, Mass.</emph></head>
+<figDesc>STREET VENDORS&mdash;ROME, ITALY, By H. A. Latimer, Boston,  Mass.</figDesc>
+</figure>
+
+
+<pb n="28" />
+<figure url="images/summer.jpg" rend="w90">
+<index index="fig" />
+<head>SUMMERTIME<lb /><emph>By </emph><hi rend="font-variant: small-caps">Paul  Wierum, </hi><emph>Chicago, Ill.</emph></head>
+<figDesc>SUMMERTIME, By Paul Wierum, Chicago, Ill.</figDesc>
+</figure>
+
+
+<pb n="29" />
+<figure url="images/torso.jpg" rend="w90">
+<index index="fig" />
+<head>TORSO OF A DANCER<lb /><emph>By </emph><hi rend="font-variant: small- caps">Arnold Genthe, </hi><emph>New York City</emph></head>
+<figDesc>TORSO OF A DANCER, By Arnold Genthe, New York City</figDesc>
+</figure>
+
+
+<pb n="30" />
+<figure url="images/maine.jpg" rend="w90">
+<index index="fig" />
+<head>A MAINE FISHING VILLAGE<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Eugene P. Henry, </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>A MAINE FISHING VILLAGE, By Eugene P. Henry, Brooklyn, N.  Y.</figDesc>
+</figure>
+
+
+<pb n="31" />
+<figure url="images/smokeeat.jpg" rend="w90">
+<index index="fig" />
+<head>SMOKE EATERS<lb /><emph>By </emph><hi rend="font-variant: small-caps">W.  H. Zerbe, </hi><emph>Richmond Hill, N. Y.</emph></head>
+<figDesc>SMOKE EATERS, By W. H. Zerbe, Richmond Hill, N. Y.</figDesc>
+</figure>
+
+
+<pb n="32" />
+<figure url="images/pueblo.jpg" rend="w90">
+<index index="fig" />
+<head>PUEBLO DWELLING<lb /><emph>By </emph><hi rend="font-variant: small- caps">Ernest Williams, </hi><emph>Los Angeles, Calif.</emph></head>
+<figDesc>PUEBLO DWELLING, By Ernest Williams, Los Angeles, Calif.</figDesc>
+</figure>
+
+
+<pb n="33" />
+<figure url="images/berkshir.jpg" rend="w90">
+<index index="fig" />
+<head>IN THE BERKSHIRES<lb /><emph>By </emph><hi rend="font-variant: small- caps">William Elbert Macnaughton, </hi><emph>New York City</emph></head>
+<figDesc>IN THE BERKSHIRES, By William Elbert Macnaughton, New York  City</figDesc>
+</figure>
+
+
+<pb n="34" />
+<figure url="images/beppy.jpg" rend="w90">
+<index index="fig" />
+<head>BEPPY<lb /><emph>By </emph><hi rend="font-variant: small-caps">Helen W.  Drew, </hi><emph>Montclair, N. J.</emph></head>
+<figDesc>BEPPY, By Helen W. Drew, Montclair, N. J.</figDesc>
+</figure>
+
+
+<pb n="35" />
+<figure url="images/empties.jpg" rend="w90">
+<index index="fig" />
+<head>EMPTIES<lb /><emph>By </emph><hi rend="font-variant: small-caps">K. B.  Lambert, </hi><emph>Glen Ridge, N. J.</emph></head>
+<figDesc>EMPTIES, By K. B. Lambert, Glen Ridge, N. J.</figDesc>
+</figure>
+
+
+<pb n="36" />
+<figure url="images/woodchop.jpg" rend="w90">
+<index index="fig" />
+<head>THE WOODCHOPPER'S WOMAN<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Harry C. Phipps, </hi><emph>Chicago, Ill.</emph></head>
+<figDesc>THE WOODCHOPPER'S WOMAN, By Harry C. Phipps, Chicago, Ill.</figDesc>
+</figure>
+
+
+<pb n="37" />
+<figure url="images/desplain.jpg" rend="w90">
+<index index="fig" />
+<head>THE DES PLAINES TRAIL<lb /><emph>By </emph><hi rend="font-variant:  small-caps">E. E. Gray, </hi><emph>Chicago, Ill.</emph></head>
+<figDesc>THE DES PLAINES TRAIL, By E. E. Gray, Chicago, Ill.</figDesc>
+</figure>
+
+
+<pb n="38" />
+<figure url="images/mothchil.jpg" rend="w90">
+<index index="fig" />
+<head>MOTHER AND CHILD<lb /><emph>By </emph><hi rend="font-variant: small- caps">Clarence H. White, </hi><emph>New York City</emph></head>
+<figDesc>MOTHER AND CHILD, By clarence H. White, New York City</figDesc>
+</figure>
+
+
+<pb n="39" />
+<figure url="images/oldbarn.jpg" rend="w90">
+<index index="fig" />
+<head>YE OLD BARN<lb /><emph>By </emph><hi rend="font-variant: small- caps">Olive Garrison, </hi><emph>Yonkers, N. Y.</emph></head>
+<figDesc>YE OLD BARN, By Olive Garrison, Yonkers, N. Y.</figDesc>
+</figure>
+
+
+<pb n="40" />
+<figure url="images/interior.jpg" rend="w90">
+<index index="fig" />
+<head>INTERIOR<lb /><emph>By </emph><hi rend="font-variant: small-caps">Jane  Reece, </hi><emph>Dayton, Ohio</emph></head>
+<figDesc>INTERIOR, By Jane Reece, Dayton, Ohio</figDesc>
+</figure>
+
+
+<pb n="41" />
+<figure url="images/pennstat.jpg" rend="w90">
+<index index="fig" />
+<head>PENNSYLVANIA STATION<lb /><emph>By </emph><hi rend="font-variant: small -caps">Dr. D. J. Ruzicka, </hi><emph>New York City</emph></head>
+<figDesc>PENNSYLVANIA STATION, By Dr. D. J. Ruzicka, New York City</figDesc>
+</figure>
+
+
+<pb n="42" />
+<figure url="images/clouds.jpg" rend="w90">
+<index index="fig" />
+<head>CLOUDS OF MORNING<lb /><emph>By </emph><hi rend="font-variant: small- caps">Francis O. Libby, F.R.P.S., </hi><emph>Portland, Me.</emph></head>
+<figDesc>CLOUDS OF MORNING, By Francis O. Libby, F.R.P.S., Portland,  Me.</figDesc>
+</figure>
+
+
+<pb n="43" />
+<figure url="images/canyon.jpg" rend="w90">
+<index index="fig" />
+<head>THE CANYON<lb /><emph>By </emph><hi rend="font-variant: small- caps">Jerry D. Drew, </hi><emph>Montclair, N. J.</emph></head>
+<figDesc>THE CANYON, By Jerry D. Drew, Montclair, N. J.</figDesc>
+</figure>
+
+
+<pb n="44" />
+<figure url="images/river.jpg" rend="w90">
+<index index="fig" />
+<head>THE EAST RIVER<lb /><emph>By </emph><hi rend="font-variant: small- caps">John Paul Edwards, </hi><emph>San Francisco, Calif.</emph></head>
+<figDesc>THE EAST RIVER, By John Paul Edwards, San Francisco, Calif.</figDesc>
+</figure>
+
+
+<pb n="45" />
+<figure url="images/trainshd.jpg" rend="w90">
+<index index="fig" />
+<head>THE TRAIN SHED&mdash;PITTSBURGH<lb /><emph>By </emph><hi rend="font- variant: small-caps">W. W. Zieg, </hi><emph>Pittsburgh, Pa.</emph></head>
+<figDesc>THE TRAIN SHED&mdash;PITTSBURGH, By W. W. Zieg, Pittsburgh,  Pa.</figDesc>
+</figure>
+
+
+<pb n="46" />
+<figure url="images/brittany.jpg" rend="w90">
+<index index="fig" />
+<head>ODD MOMENTS IN BRITTANY<lb /><emph>By </emph><hi rend="font-variant:  small-caps">George Henry High, </hi><emph>Chicago, Ill.</emph></head>
+<figDesc>ODD MOMENTS IN BRITTANY, By George Henry High, Chicago,  Ill.</figDesc>
+</figure>
+
+
+<pb n="47" />
+<figure url="images/uzerches.jpg" rend="w90">
+<index index="fig" />
+<head>UZERCHES: "IL FAIT UN BON SOLEIL"<lb /><emph>By </emph><hi  rend="font-variant: small-caps">Dr. A. D. Chaffee, </hi><emph>New York  City</emph></head>
+<figDesc>UZERCHES: "IL FAIT UN BON SOLEIL", By Dr. A. D. Chaffee, New  York City</figDesc>
+</figure>
+
+
+<pb n="48" />
+<figure url="images/morning.jpg" rend="w90">
+<index index="fig" />
+<head>A MISTY MORNING<lb /><emph>By </emph><hi rend="font-variant: small- caps">N. S. Wooldridge, </hi><emph>Pittsburgh, Pa.</emph></head>
+<figDesc>A MISTY MORNING, By N. S. Wooldridge, Pittsburgh, Pa.</figDesc>
+</figure>
+
+
+<pb n="49" />
+<figure url="images/ptarmign.jpg" rend="w90">
+<index index="fig" />
+<head>PTARMIGAN IN WINTER<lb /><emph>By </emph><hi rend="font-variant: small- caps">Clark Blickensderfer, </hi><emph>Denver, Colo.</emph></head>
+<figDesc>PTARMIGAN IN WINTER, By Clark Blickensderfer, Denver, Colo.</figDesc>
+</figure>
+
+
+<pb n="50" />
+<figure url="images/marjorie.jpg" rend="w90">
+<index index="fig" />
+<head>MARJORIE<lb /><emph>By </emph><hi rend="font-variant: small-caps">Sophie  L. Lauffer, </hi><emph>New York City</emph></head>
+<figDesc>MARJORIE, By sophie L. Lauffer, New York City</figDesc>
+</figure>
+
+
+<pb n="51" />
+<figure url="images/pattwall.jpg" rend="w90">
+<index index="fig" />
+<head>THE PATTERNED WALL<lb /><emph>By </emph><hi rend="font-variant: small- caps">Mildred Ruth Wilson, </hi><emph>Montclair, N. J.</emph></head>
+<figDesc>THE PATTERNED WALL, By Mildred Ruth Wilson, Montclair, N.  J.</figDesc>
+</figure>
+
+
+<pb n="52" />
+<figure url="images/window.jpg" rend="w90">
+<index index="fig" />
+<head>THE SUNNY WINDOW<lb /><emph>By </emph><hi rend="font-variant: small- caps">Mary F. Boyd, </hi><emph>Chambersburg, Pa.</emph></head>
+<figDesc>THE SUNNY WINDOW, By Mary F. Boyd, Chambersburg, Pa.</figDesc>
+</figure>
+
+
+<pb n="53" />
+<figure url="images/atwhites.jpg" rend="w90">
+<index index="fig" />
+<head>AT CLARENCE WHITE'S, CANAAN, CONN.<lb /><emph>By </emph><hi rend="font- variant: small-caps">Florence Burton Livingston, </hi><emph>Mohegan Lake, N.  Y.</emph></head>
+<figDesc>AT CLARENCE WHITE'S, CANAAN, CONN., By Florence Burton Livingston,  Mohegan Lake, N. Y.</figDesc>
+</figure>
+
+
+<pb n="54" />
+<figure url="images/younggrl.jpg" rend="w90">
+<index index="fig" />
+<head>STUDY OF A YOUNG GIRL<lb /><emph>By </emph><hi rend="font-variant:  small-caps">charles H. Brown, </hi><emph>Santa Barbara, Calif.</emph></head>
+<figDesc>STUDY OF A YOUNG GIRL, By charles H. Brown, Santa Barbara,  Calif.</figDesc>
+</figure>
+
+
+<pb n="55" />
+<figure url="images/ivyglass.jpg" rend="w90">
+<index index="fig" />
+<head>IVY AND OLD GLASS<lb /><emph>By </emph><hi rend="font-variant: small- caps">Clara E. Sipprell, </hi><emph>New York City</emph></head>
+<figDesc>IVY AND OLD GLASS, By Clara E. Sipprell, New York City</figDesc>
+</figure>
+
+
+<pb n="56" />
+<figure url="images/rosedanc.jpg" rend="w90">
+<index index="fig" />
+<head>ROSE DANCE<lb /><emph>By </emph><hi rend="font-variant: small-caps">J.  Anthony Bull, </hi><emph>Cincinnati, Ohio</emph></head>
+<figDesc>ROSE DANCE, By J. Anthony Bull, Cincinnati, Ohio</figDesc>
+</figure>
+
+
+<pb n="57" />
+<figure url="images/nursery.jpg" rend="w90">
+<index index="fig" />
+<head>A CONCERT IN THE NURSERY<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Frank R. Nivison, </hi><emph>Fall River, Mass.</emph></head>
+<figDesc>A CONCERT IN THE NURSERY, By Frank R. Nivison, Fall River,  Mass.</figDesc>
+</figure>
+
+
+<pb n="58" />
+<figure url="images/attic.jpg" rend="w90">
+<index index="fig" />
+<head>GREY ATTIC<lb /><emph>By </emph><hi rend="font-variant: small- caps">Edward Weston, </hi><emph>Glendale, Calif.</emph></head>
+<figDesc>GREY ATTIC, By Edward Weston, Glendale, Calif.</figDesc>
+</figure>
+
+
+<pb n="59" />
+<figure url="images/mudpies.jpg" rend="w90">
+<index index="fig" />
+<head>MUD-PIES<lb /><emph>By </emph><hi rend="font-variant: small- caps">Cornelia F. White, </hi><emph>New York City</emph></head>
+<figDesc>MUD-PIES, By Cornelia F. White, New York City</figDesc>
+</figure>
+
+
+<pb n="60" />
+<figure url="images/carved.jpg" rend="w90">
+<index index="fig" />
+<head>CARVED WITH THE TOOLS OF TIME, THE SCULPTOR<lb /><emph>By </emph><hi  rend="font-variant: small-caps">Edith R. Wilson, </hi><emph>Mt. Vernon, N.  Y.</emph></head>
+<figDesc>CARVED WITH THE TOOLS OF TIME, THE SCULPTOR, By Edith R. Wilson, Mt.  Vernon, N. Y.</figDesc>
+</figure>
+
+
+<pb n="61" />
+<figure url="images/mornglor.jpg" rend="w90">
+<index index="fig" />
+<head>MORNING GLORY<lb /><emph>By </emph><hi rend="font-variant: small- caps">Otis Williams, </hi><emph>Los Angeles, Calif.</emph></head>
+<figDesc>MORNING GLORY, By Otis Williams, Los Angeles, Calif.</figDesc>
+</figure>
+
+
+<pb n="62" />
+<figure url="images/circus.jpg" rend="w90">
+<index index="fig" />
+<head>THE CIRCUS COMES TO TOWN<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Thomas R. Hartley, </hi><emph>Pittsburgh, Pa.</emph></head>
+<figDesc>THE CIRCUS COMES TO TOWN, By Thomas R. Hartley, Pittsburgh,  Pa.</figDesc>
+</figure>
+
+
+<pb n="63" />
+<figure url="images/autumn.jpg" rend="w90">
+<index index="fig" />
+<head>SEAR AUTUMN<lb /><emph>By </emph><hi rend="font-variant: small- caps">Anson Herrick, </hi><emph>San Francisco, Cal.</emph></head>
+<figDesc>SEAR AUTUMN, By Anson Herrick, San Francisco, Cal.</figDesc>
+</figure>
+
+
+<pb n="64" />
+<figure url="images/bazar.jpg" rend="w90">
+<index index="fig" />
+<head>THE BAZAR<lb /><emph>By </emph><hi rend="font-variant: small- caps">Margaret D. M. Brown, </hi><emph>Arlington, Poughkeepsie, N.  Y.</emph></head>
+<figDesc>THE BAZAR, By Margaret D. M. Brown, Arlington, Poughkeepsie, N.  Y.</figDesc>
+</figure>
+
+
+<pb n="65" />
+<figure url="images/wanderer.jpg" rend="w90">
+<index index="fig" />
+<head>WANDERERS FROM HOME<lb /><emph>By </emph><hi rend="font-variant: small- caps">P. Douglas Anderson, </hi><emph>San Francisco, Calif.</emph></head>
+<figDesc>WANDERERS FROM HOME, By P. Douglas Anderson, San Francisco,  Calif.</figDesc>
+</figure>
+
+
+<pb n="66" />
+<figure url="images/decorati.jpg" rend="w90">
+<index index="fig" />
+<head>DECORATIVE STUDY<lb /><emph>By </emph><hi rend="font-variant: small- caps">Henry A. Hussey, </hi><emph>Berkeley, Calif.</emph></head>
+<figDesc>DECORATIVE STUDY, By Henry A. Hussey, Berkeley, Calif.</figDesc>
+</figure>
+
+
+<pb n="67" />
+<figure url="images/wayup.jpg" rend="w90">
+<index index="fig" />
+<head>THE WAY UP<lb /><emph>By </emph><hi rend="font-variant: small- caps">Folsom Rich, </hi><emph>Chicago, Ill.</emph></head>
+<figDesc>THE WAY UP, By Folsom Rich, Chicago, Ill.</figDesc>
+</figure>
+
+
+<pb n="68" />
+<figure url="images/colonel.jpg" rend="w90">
+<index index="fig" />
+<head>COLONEL MARSH<lb /><emph>By </emph><hi rend="font-variant: small- caps">E. L. Mix, </hi><emph>New York City</emph></head>
+<figDesc>COLONEL MARSH, By E. L. Mix, New York City</figDesc>
+</figure>
+
+
+<pb n="69" />
+<figure url="images/shadow.jpg" rend="w90">
+<index index="fig" />
+<head>SHADOW DESIGN<lb /><emph>By </emph><hi rend="font-variant: small- caps">G. W. Harting, </hi><emph>New York City</emph></head>
+<figDesc>SHADOW DESIGN, By G. W. Harting, New York City</figDesc>
+</figure>
+
+
+<pb n="70" />
+<figure url="images/guingamp.jpg" rend="w90">
+<index index="fig" />
+<head>AT GUINGAMP<lb /><emph>By </emph><hi rend="font-variant: small- caps">Mrs. Antoinette B. Hervey, </hi><emph>New York City</emph></head>
+<figDesc>AT GUINGAMP, By Mrs. Antoinette B. Hervey, New York City</figDesc>
+</figure>
+
+
+<pb n="71" />
+<figure url="images/padrehnd.jpg" rend="w90">
+<index index="fig" />
+<head>KISSING THE PADRE'S HAND<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Myers R. Jones, </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>KISSING THE PADRE'S HAND, By Myers R. Jones, Brooklyn, N.  Y.</figDesc>
+</figure>
+
+
+<pb n="72" />
+<figure url="images/underbrg.jpg" rend="w90">
+<index index="fig" />
+<head>UNDER BROOKLYN BRIDGE<lb /><emph>By </emph><hi rend="font-variant:  small-caps">A. E. Schaaf, </hi><emph>Cleveland, Ohio</emph></head>
+<figDesc>UNDER BROOKLYN BRIDGE, By A. E. Schaaf, Cleveland, Ohio</figDesc>
+</figure>
+
+
+<pb n="73" />
+<figure url="images/bridges.jpg" rend="w90">
+<index index="fig" />
+<head>THE BRIDGES<lb /><emph>By </emph><hi rend="font-variant: small- caps">Henry Hoyt Moore, </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>THE BRIDGES, By Henry Hoyt Moore, Brooklyn, N. Y.</figDesc>
+</figure>
+
+
+<pb n="74" />
+<figure url="images/rapids.jpg" rend="w90">
+<index index="fig" />
+<head>WHIRLPOOL RAPIDS, NIAGARA<lb /><emph>By </emph><hi rend="font-variant:  small-caps">William A. Alcock, </hi><emph>New York City</emph></head>
+<figDesc>WHIRLPOOL RAPIDS, NIAGARA, By William A. Alcock, New York  City</figDesc>
+</figure>
+
+
+<pb n="75" />
+<figure url="images/study.jpg" rend="w90">
+<index index="fig" />
+<head>STUDY<lb /><emph>By </emph><hi rend="font-variant: small-caps">A. Ralph  Steiner, </hi><emph>New York City</emph></head>
+<figDesc>STUDY, By A. Ralph Steiner, New York City</figDesc>
+</figure>
+
+
+<pb n="76" />
+<figure url="images/domsymph.jpg" rend="w90">
+<index index="fig" />
+<head>DOMESTIC SYMPHONY<lb /><emph>By </emph><hi rend="font-variant: small- caps">Margaret Watkins, </hi><emph>New York City</emph></head>
+<figDesc>DOMESTIC SYMPHONY, By Margaret Watkins, New York City</figDesc>
+</figure>
+
+
+<pb n="77" />
+<figure url="images/sunlight.jpg" rend="w90">
+<index index="fig" />
+<head>MORNING SUNLIGHT<lb /><emph>By </emph><hi rend="font-variant: small- caps">Ira W. Martin, </hi><emph>New York City</emph></head>
+<figDesc>MORNING SUNLIGHT, By Ira W. Martin, New York City</figDesc>
+</figure>
+
+
+<pb n="78" />
+<figure url="images/mandalay.jpg" rend="w90">
+<index index="fig" />
+<head>L'ESPRIT DE MANDALAY<lb /><emph>By </emph><hi rend="font-variant: small -caps">J. Ludger Rainville, </hi><emph>Portland, Me.</emph></head>
+<figDesc>L'ESPRIT DE MANDALAY, By J. Ludger Rainville, Portland, Me.</figDesc>
+</figure>
+
+
+<pb n="79" />
+<figure url="images/gorge.jpg" rend="w90">
+<index index="fig" />
+<head>THE GORGE BELOW THE WHIRLPOOL, NIAGARA<lb /><emph>By </emph><hi  rend="font-variant: small-caps">W. H. Porterfield, </hi><emph>Buffalo, N.  Y.</emph></head>
+<figDesc>THE GORGE BELOW THE WHIRLPOOL, NIAGARA, By W. H. Porterfield,  Buffalo, N. Y.</figDesc>
+</figure>
+
+
+<pb n="80" />
+<figure url="images/grlblack.jpg" rend="w90">
+<index index="fig" />
+<head>PORTRAIT&mdash;GIRL IN BLACK<lb /><emph>By </emph><hi rend="font- variant: small-caps">Rabinovitch, </hi><emph>New York City</emph></head>
+<figDesc>PORTRAIT&mdash;GIRL IN BLACK, By Rabinovitch, New York City</figDesc>
+</figure>
+
+
+<pb n="81" />
+<figure url="images/toilers.jpg" rend="w90">
+<index index="fig" />
+<head>THE TOILERS<lb /><emph>By </emph><hi rend="font-variant: small- caps">Edward Ostrom, Jr., </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>THE TOILERS, By Edward Ostrom, Jr., Brooklyn, N. Y.</figDesc>
+</figure>
+
+
+<pb n="82" />
+<figure url="images/fromwind.jpg" rend="w90">
+<index index="fig" />
+<head>FROM MY WINDOW<lb /><emph>By </emph><hi rend="font-variant: small- caps">Betty Gresh, </hi><emph>Norristown, Penn.</emph></head>
+<figDesc>FROM MY WINDOW, By Betty Gresh, Norristown, Penn.</figDesc>
+</figure>
+
+
+<pb n="83" />
+<figure url="images/american.jpg" rend="w90">
+<index index="fig" />
+<head>YOUNG AMERICAN<lb /><emph>By </emph><hi rend="font-variant: small- caps">Louis Fleckenstein, </hi><emph>Long Beach, Calif.</emph></head>
+<figDesc>YOUNG AMERICAN, By Louis Fleckenstein, Long Beach, Calif.</figDesc>
+</figure>
+
+
+<pb n="84" />
+<figure url="images/mesadmar.jpg" rend="w90">
+<index index="fig" />
+<head>MESA DEL MAR<lb /><emph>By </emph><hi rend="font-variant: small-caps">G.  H. S. Harding, </hi><emph>Berkeley, Calif.</emph></head>
+<figDesc>MESA DEL MAR, By G. H. S. Harding, Berkeley, Calif.</figDesc>
+</figure>
+
+
+<pb n="85" />
+<figure url="images/seine.jpg" rend="w90">
+<index index="fig" />
+<head>SEINE BOATS<lb /><emph>By </emph><hi rend="font-variant: small- caps">William B. Imlach, </hi><emph>New York City</emph></head>
+<figDesc>SEINE BOATS, By William B. Imlach, New York City</figDesc>
+</figure>
+
+
+<pb n="86" />
+<figure url="images/moon.jpg" rend="w90">
+<index index="fig" />
+<head>THE MOON OF THE RED GODS<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Laura Gilpin, </hi><emph>Colorado Springs, Colo.</emph></head>
+<figDesc>THE MOON OF THE RED GODS, By Laura Gilpin, Colorado Springs,  Colo.</figDesc>
+</figure>
+
+
+<pb n="87" />
+<figure url="images/highseas.jpg" rend="w90">
+<index index="fig" />
+<head>HIGH SEAS<lb /><emph>By </emph><hi rend="font-variant: small- caps">Joseph Petrocelli, </hi><emph>New York City</emph></head>
+<figDesc>HIGH SEAS, By Joseph Petrocelli, New York City</figDesc>
+</figure>
+
+
+<pb n="88" />
+<figure url="images/sixthave.jpg" rend="w90">
+<index index="fig" />
+<head>SIXTH AVENUE, NEW YORK CITY<lb /><emph>By </emph><hi rend="font-variant:  small-caps">Ben J. Lubschez, </hi><emph>New York City</emph></head>
+<figDesc>SIXTH AVENUE, NEW YORK CITY, By Ben J. Lubschez, New York  City</figDesc>
+</figure>
+
+
+<pb n="89" />
+<figure url="images/hillside.jpg" rend="w90">
+<index index="fig" />
+<head>HILLSIDE SHADOWS<lb /><emph>By </emph><hi rend="font-variant: small- caps">Charles K. Archer, </hi><emph>Pittsburgh, Pa.</emph></head>
+<figDesc>HILLSIDE SHADOWS, By Charles K. Archer, Pittsburgh, Pa.</figDesc>
+</figure>
+
+
+<pb n="90" />
+<figure url="images/chickens.jpg" rend="w90">
+<index index="fig" />
+<head>MOTHER CAREY'S CHICKENS COME HOME TO ROOST<lb /><emph>By </emph><hi  rend="font-variant: small-caps">Herbert B. Turner, </hi><emph>Boston,  Mass.</emph></head>
+<figDesc>MOTHER CAREY'S CHICKENS COME HOME TO ROOST, By Herbert B. Turner,  Boston, Mass.</figDesc>
+</figure>
+
+
+<pb n="91" />
+<figure url="images/schoolyrd.jpg" rend="w90">
+<index index="fig" />
+<head>THE SCHOOL YARD<lb /><emph>By </emph><hi rend="font-variant: small- caps">Vernon E. Duroe, </hi><emph>Brooklyn, N. Y.</emph></head>
+<figDesc>THE SCHOOL YARD, By Vernon E. Duroe, Brooklyn, N. Y.</figDesc>
+</figure>
+
+</body>
+
+
+<back rend="page-break-before: right">
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<pb n="93" />
+<head>THE PURPOSE OF THE PICTORIAL PHOTOGRAPHERS OF AMERICA</head>
+<p>
+To stimulate and encourage those engaged and interested in the Art of Photography; to honor those who have given valuable service to the advancement of Photography; to form centers for intercourse and for exchange of views; to facilitate the formation of centers where the photographers may be always seen and purchased by the public; to enlist the aid of museums and public libraries in adding photographic prints to their departments; to stimulate public taste through exhibitions, lectures, and publication; to invite exhibits of foreign work and encourage participation in exhibitions held in foreign countries; to promote education in this Art so as to raise the standards of Photography in the United States of America.
+</p>
+<milestone unit="tb" rend="stars: 1" />
+</div>
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<pb n="95" />
+<head>THE PICTORIAL PHOTOGRAPHERS OF AMERICA</head>
+<p>
+Some five years ago a small group of photographers in New York City and vicinity formed a nucleus for the institution of a society.  Its name was ambitious&mdash;The Pictorial Photographers of America; its aims and objects sounded visionary, almost fantastic.  Already many times printed, they bear repetition and have been incorporated in a separate page in this book.  In one sense these aims were visionary, because they were thought out and formulated by men of vision, who now stand justified: in hardly one of these directions have we failed to make important advance and in many we have pushed far.  But we do not rest upon what we have done; in none of these pursuits can we pause and say <q>It is accomplished</q>; much remains to be achieved in every line; new activities constantly present themselves; and the maintenance of each of our undertakings implies continuance of effort nearly as strenuous as that of its initiative.
+</p>
+<p>
+In the Art Center, from its inception as a mere idea, the Pictorial Photographers of America have been active.  This Institution, enthusiastically planned and rapidly carried forward, has been since November, 1921, an accomplished fact. It is devoted to the development and association of various Arts and Crafts, to interesting the public therein and, particularly, to bringing producer and user together.  It is compounded of the seven following Societies, to wit: Art Alliance of America, Art Directors Club, American Institute of Graphic Arts, New York Society of Craftsmen, Society of Illustrators, the Stowaways and the Pictorial Photographers of America, which together own a fine, large, centrally situated building, completely remodeled for their occupation and divided into galleries, meeting rooms and executive offices.  The Pictorial Photographers, besides holding their general meetings in one of the larger rooms and sharing the lounge for social purposes, have now their own room (with attendance) which, accessible day and evening, will be a meeting place for our members, resident and non-resident, and a center from which we may get into touch with one another; a place for the continuous exhibition of prints upon the walls and in portfolios, where art lovers, buyers and advertisers can see and, if they wish, arrange to buy our work or come into communication with our workers; a reading room supplied with recent photographic magazines and literature; and a publicity bureau with a bulletin board displaying announcements of current and future local and national photographic events.
+</p>
+<p>
+The usual series of monthly meetings has been held throughout the past season, with a larger attendance than heretofore.  Our first meeting was the usual informal <q>get-together</q> dinner.  Our second took place in the opening week of the Art Center: we held an informal reception during the afternoon and in the evening gave a large dinner to our members and friends.  Mrs. Ripley Hitchcock was our guest of honor. Our general meeting followed, at which
+<pb n="96" />
+Mr. Ben J. Lubschez addressed a large audience upon the <q>Story of the Motion Picture,</q> followed by Mr. Herbert J. Seligman upon <q>Cinema Plastik.</q>  At our succeeding meetings we have had the pleasure of listening to Mr. William H. Zerbe, Mr. Richard M. Coit, Mr. Ira W. Martin, Mr. Pirie MacDonald, Mr. Edward Penfield, Mr. Fred Dana Marsh and Mr. Alexander P. Milne.  Interest in the monthly print contests held at these meetings has been maintained and the value of the feature demonstrated by the gain in number and quality of the entries.  We hope during the succeeding year to keep the monthly prints upon exhibition until the following meeting, believing that this measure will both stimulate those who show and benefit those who look.
+</p>
+<p>
+As a part of the general exhibition of all the conjoined Societies throughout the opening month of the Art Center (November, 1921) we presented a collection of one hundred and sixty-two prints from our own membership, filling one of the large galleries upon the ground floor.  This Exhibition, representing all parts of the country, was exceedingly well received and, under the charge of the American Federation of Arts, was afterwards shown in Corvallis, Oregon; Emporia, Kansas; College Station, Texas; and Greeley, Colorado.
+</p>
+<p>
+During the past summer we have shown at the Art Center a collection of fifty prints from the Copenhagen Photographic Amateur Club.  We have thus enjoyed the double privilege of in some measure returning the courtesy of the Copenhagen Club, who invited us to cooperate in their Twenty-fifth Anniversary Exhibition, and of seeing and showing representative and distinguished work from the members of this Club.
+</p>
+<p>
+A periodical Bulletin of the meetings, activities and news of the Society, long contemplated, has been established, which through the ensuing year we expect to issue monthly in the shape of an eight-page miniature magazine.  The Art Center has also undertaken the issue of a monthly Bulletin of the conjoined Societies, in which we shall have our proportionate share.
+</p>
+<p>
+In conjunction with the <emph>Shadowland Magazine</emph> we have begun a series of monthly print contests, in which the magazine offers to the winners not only valuable prizes but expert reproduction and wide publicity.  Though not many months in operation, entries and awards have been encouraging and interest has been aroused abroad, even so far as China, as well as at home.
+</p>
+<p>
+We have become affiliated with <emph>The Club Photographer</emph> of Great Britain, contributing the articles and illustrations of the issue for April, 1922, and have been invited to supply such material in the future for one number per year.
+</p>
+<p>
+It is interesting to note that, besides satisfactory sales at home, we received from Japan two large orders for <emph>Pictorial Photography in America</emph> for 1921.
+</p>
+<milestone unit="tb" rend="rule: 80%" />
+<p>
+Our year has been shadowed by the death of Edward R. Dickson, one of the Society's most enthusiastic founders and active promoters.  We can do no better than to quote the brief memorial account of his life, written at the time of his death by a few of his intimate friends.
+</p>
+<p>
+<q rend="post: none">On March 5, 1922, occurred the untimely death of Edward R. Dickson, one of the most eager and gifted workers in the group of men and women devoting themselves to pictorial photography.  He was born in Quito, Ecuador, forty-two years ago.  According to the custom in Ecuador, he, as the eldest son, was sent abroad, to London, to finish his education.  He returned home only to find that he had outgrown the thought and customs of his country.  He therefore returned to England, and later, in 1903, came to New York.  Here he joined the staff of the Marine Engine Corporation, later merged with the Otis Elevator Company.  His chief interest, however, was not in engineering but in art.  He was a friend and pupil of Clarence H. White, and for many
+<pb n="97" />
+years devoted every moment of his spare time to artistic creation. In 1917 he cut loose from his his business moorings and embarked on the great adventure of his life.  Henceforth until his death he devoted himself wholly to creative work in photography.</q>
+</p>
+<p>
+<q rend="post: none">The later years of his life were spent in that part of Manhattan, beyond Dyckman Street, known as Inwood.  That section of the Island he very much loved, and many of his pictures were taken in or around those wooded heights overlooking Spuyten Duyvil.  These pictures include a series of illustrations to Stephen Phillips' poem, <q>Marpessa.</q></q>
+</p>
+<p>
+<q rend="post: none">It was in October, 1913, that Mr. Dickson published the first number of <title>Platinum Print</title>, <q>a journal of personal expression.</q>  Between that date and October, 1917, eleven numbers of this remarkable magazine were published, the last two under the title of <title>Photo-Graphic Art</title>.</q>
+</p>
+<p>
+<q rend="post: none">He was one of the founders in 1916 of the Pictorial Photographers of America and was secretary to that organization until 1920.  In 1921 he completed the editing of the <q>Poems of the Dance,</q> an anthology illustrated by his own photographs, which was published in the same year.  At the time of his death he was at work on other projects, which would have been genuine contributions.</q>
+</p>
+<p>
+We have also been saddened by the death of Richard H. Rice, which occurred last February and cost the country one of its wisest industrial leaders.  Becoming manager of the Lynn Works of the General Electric Company during a great strike, he had made them famous for productive cooperation.  His methods have been generally copied; and the confidence and support of his twelve thousand workmen and women were due to his devotion and his inviolable sense of justice.
+</p>
+<p>
+Photography was his refuge from pressing affairs.  With the engineer's skill and interest in processes and a keen love of natural beauty, he produced during his last decade half a hundred landscape studies of a reticent and enduring beauty.  The scant leisure of his last winter had been spent in preparing these for exhibition, and they remain as a characteristic memorial to an unusual personality.
+</p>
+<milestone unit="tb" rend="rule: 80%" />
+<p>
+In this book, our third Pictorial Annual, we offer the choice of our Jury from nearly a thousand prints, selected without regard to membership in the organization and solely with the intention of exhibiting the best that America can produce.  We are grateful to all who have contributed, whether successfully or not, for their encouragement and support, often by letter as well as by entries; to the Jury of Selection for their careful, painstaking judgment; to our Committee on Publication for its detailed and arduous work; to our engravers and printers for their preparation and presentation of our material; to all, in fact, who have cooperated in making <title>Pictorial Photography in America for 1922</title> a good record of current American Photographic Art.
+</p>
+<closer>
+<signed>
+<hi rend="font-variant: small-caps">Amasa Day Chaffee</hi>, <emph>President.</emph>
+</signed>
+<dateline>The Art Center<lb />Sixty-five East Fifty-sixth Street, <lb />New York City.
+</dateline>
+</closer>
+
+<pb n="98" />
+<figure url="images/adkodak.jpg" rend="w90">
+<figDesc>Advertisement: Eastman Kodak Company</figDesc>
+</figure>
+
+<pb n="99" />
+<figure url="images/adzeiss.jpg" rend="w90">
+<figDesc>Advertisement: Harold M. Bennett</figDesc>
+</figure>
+
+<pb n="100" />
+<figure url="images/adbeck.jpg" rend="w90">
+<figDesc>Advertisement: The Beck Engraving Company</figDesc>
+</figure>
+
+<pb n="101" />
+<figure url="images/adroehrg.jpg" rend="w90">
+<figDesc>Advertisement: Roehrig-Bielenberg Co., Inc.</figDesc>
+</figure>
+
+<pb n="102" />
+<figure url="images/adwollen.jpg" rend="w90">
+<figDesc>Advertisement: Wollensack Optical Company</figDesc>
+</figure>
+
+<pb n="103" />
+<figure url="images/addejong.jpg" rend="w90">
+<figDesc>Advertisement: Louis Dejonge and Company</figDesc>
+</figure>
+
+<pb n="104" />
+<figure url="images/adgraf.jpg" rend="w90">
+<figDesc>Advertisement: Graf Super Lenses</figDesc>
+</figure>
+
+<pb n="105" />
+<figure url="images/adpinkcc.jpg" rend="w90">
+<figDesc>Advertisements: Pinkham and Smith Company, Camera Craft Publishing Company</figDesc>
+</figure>
+
+<pb n="106" />
+<figure url="images/adjapan.jpg" rend="w90">
+<figDesc>Advertisements: Japan Paper Company, New York Camera Exchange</figDesc>
+</figure>
+
+<pb n="107" />
+<figure url="images/adsplwil.jpg" rend="w90">
+<figDesc>Advertisements: Hathaway-Dunn, Willoughby's</figDesc>
+</figure>
+
+<pb n="108" />
+<figure url="images/adaldrad.jpg" rend="w90">
+<figDesc>Advertisements: J. L. Lewis, Inc., Gundlach-Manhattan Optical Company</figDesc>
+</figure>
+
+<pb n="109" />
+<figure url="images/admurabe.jpg" rend="w90">
+<figDesc>Advertisements: George Murphy, Inc.; Abe Cohen's Exchange, Inc.</figDesc>
+</figure>
+
+<pb n="110" />
+<figure url="images/adrudge.jpg" rend="w90">
+<figDesc>Advertisement: William Edward Rudge, New York City</figDesc>
+</figure>
+
+
+
+
+</div>
+
+<div rend="page-break-before: right">
+<divGen type="pgfooter" />
+</div>
+</back>
+
+</text>
+</TEI.2>
