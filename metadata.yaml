@@ -1,0 +1,43 @@
+_repo: Pictorial-Photography-in-America-1922_28024
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Moore, Henry Hoyt
+    gutenberg_agent_id: '35400'
+    url: http://www.gutenberg.org/2009/agents/35400
+  - agent_name: Campbell, Heyworth
+    deathdate: 1953
+    gutenberg_agent_id: '35401'
+    url: http://www.gutenberg.org/2009/agents/35401
+  - agent_name: Sterner, Albert
+    alias: Sterner, Albert E. (Albert Edward)
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '9262'
+    url: http://www.gutenberg.org/2009/agents/9262
+    wikipedia: http://www.jewishencyclopedia.com/view.jsp?letter=S&artid=1095
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pictorial Photographers of America
+    alias: America, Pictorial Photographers of
+    gutenberg_agent_id: '33078'
+    url: http://www.gutenberg.org/2009/agents/33078
+description: ''
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2009-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28024'
+language: en
+publication_note: 'New York :  The Art Center;  Pictorial Photographers of America,  1922'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Photography, Artistic -- Periodicals'
+- !lcc 'TR'
+title: Pictorial Photography in America 1922
+url: http://www.gutenberg.org/ebooks/28024
